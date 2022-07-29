@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "category": "trail",
+        "trailName": "Lighthouse Loop Trail",
+        "systemName": "Discovery Park",
+        "imageUrl": "lighthouse-loop-trail.jpg",
+        "distance": "4.4 miles",
+        "elevationGain": "472 ft",
+        "trailType": "Loop",
+        "trailheadCoordinates": {
+            "latitude": 47.66371,
+            "longitude": 122.40632
+        },
+        "source": "https://www.seattle.gov/parks/find/parks/discovery-park"
+    },
+    {
+        "id": 2,
+        "category": "trail",
+        "systemName": "Deception Pass State Park",
+        "imageUrl":"bowman-bay.jpg",
+        "distance": "2.4 miles",
+        "elevationGain": "321 ft",
+        "trailType": "Loop",
+        "trailheadCoordinates": {
+            "latitude": 48.41869,
+            "longitude": 122.65183
+        },
+        "source": "https://www.parks.wa.gov/497/Deception-Pass"
+    },
+    {
+        "id": 3,
+        "category": "trail",
+        "systemName": "Olallie State Park",
+        "imageUrl": "twin-falls.jpg",
+        "distance": "2.5 miles",
+        "elevationGain": "636 ft",
+        "trailType": "Out & Back",
+        "trailheadCoordinates": {
+            "latitude": 47.45311,
+            "longitude": 121.70539
+        },
+        "source": "https://www.parks.wa.gov/338/Olallie"
+
+    }
+]
