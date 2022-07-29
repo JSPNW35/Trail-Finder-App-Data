@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "category": "trail",
+        "trailName": "Lighthouse Loop Trail",
+        "systemName": "Discovery Park",
+        "image": "lighthouse-Loop-Trail.IMG",
+        "distance": "4.4 miles",
+        "elevationGain": "472 ft",
+        "trailType": "Loop",
+        "TrailheadCoordinates": {
+            "latitude": 47.66371,
+            "longitude": 122.40632
+        },
+        "Source": "https://www.seattle.gov/parks/find/parks/discovery-park"
+    }
+]
