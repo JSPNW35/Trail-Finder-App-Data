@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "category": "trail",
+        "trailName": "Lighthouse Loop Trail",
+        "systemName": "Discovery Park",
+        "imageUrl": "https://jspnw35.github.io/Trail-Finder-App-Data/lighthouse-loop-trail.jpg",
+        "distance": "4.4 miles",
+        "elevationGain": "472 ft",
+        "trailType": "Loop",
+        "trailheadCoordinates": {
+            "latitude": 47.66371,
+            "longitude": 122.40632
+        },
+        "source": "https://www.seattle.gov/parks/find/parks/discovery-park",
+        "description": "Lighthouse loop is a 4.4 mile trail located in discovery park near Seattle, WA. It is considered an easy route and generally takes just under 2 hours to complete. The trail is very popular for birding, hiking and trail running. Dogs are welcome but must be kept on a leash."
+    },
+    {
+        "id": 2,
+        "category": "trail",
+        "trailName": "Lighthouse Point via Bowman Bay",
+        "systemName": "Deception Pass State Park",
+        "imageUrl":"https://jspnw35.github.io/Trail-Finder-App-Data/bowman-bay.jpg",
+        "distance": "2.4 miles",
+        "elevationGain": "321 ft",
+        "trailType": "Loop",
+        "trailheadCoordinates": {
+            "latitude": 48.41869,
+            "longitude": 122.65183
+        },
+        "source": "https://www.parks.wa.gov/497/Deception-Pass",
+        "description": "Lighthouse point via Bowman Bay is a 2.4 mile trail near Oak Harbor, WA. it is generally considered to be an easy route and takes about an hour and a half to complete. Dogs are welcome but must be kept on a leash."
+    },
+    {
+        "id": 3,
+        "category": "trail",
+        "trailName": "Twin Falls Trail",
+        "systemName": "Olallie State Park",
+        "imageUrl": "https://jspnw35.github.io/Trail-Finder-App-Data/twin-falls.jpg",
+        "distance": "2.5 miles",
+        "elevationGain": "636 ft",
+        "trailType": "Out & Back",
+        "trailheadCoordinates": {
+            "latitude": 47.45311,
+            "longitude": 121.70539
+        },
+        "source": "https://www.parks.wa.gov/338/Olallie",
+        "description": "Twin falls trail a 2.5 mile trail located near North Bend, WA. It is generally considered to be moderately difficuklt and takes about 2 hours to complete. Theres is a great view of the waterfalls at the summit during the spring. Dogs are welcome but must be kept on a leash."
+    }
+]
