@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "category": "trail",
+        "trailName": "Lighthouse Loop Trail",
+        "systemName": "Discovery Park",
+        "imageUrl": "https://jspnw35.github.io/Trail-Finder-App-Data/lighthouse-loop-trail.jpg",
+        "distance": 4.4,
+        "elevationGain": 472,
+        "trailType": "Loop",
+        "trailheadCoordinates": {
+            "latitude": 47.66371,
+            "longitude": 122.40632
+        },
+        "source": "https://www.seattle.gov/parks/find/parks/discovery-park",
+        "description": "Lighthouse loop is a 4.4 mile trail located in discovery park near Seattle, WA. It is considered an easy route and generally takes just under 2 hours to complete. The trail is very popular for birding, hiking and trail running. Dogs are welcome but must be kept on a leash."
+    },
+    
+    {
+        "id": 3,
+        "category": "trail",
+        "trailName": "Twin Falls Trail",
+        "systemName": "Olallie State Park",
+        "imageUrl": "https://jspnw35.github.io/Trail-Finder-App-Data/twin-falls.jpg",
+        "distance": 2.5,
+        "elevationGain": 636,
+        "trailType": "Out & Back",
+        "trailheadCoordinates": {
+            "latitude": 47.45311,
+            "longitude": 121.70539
+        },
+        "source": "https://www.parks.wa.gov/338/Olallie",
+        "description": "Twin falls trail a 2.5 mile trail located near North Bend, WA. It is generally considered to be moderately difficult and takes about 2 hours to complete. Theres is a great view of the waterfalls at the summit during the spring. Dogs are welcome but must be kept on a leash."
+    },
+    {
+        "id": 4,
+        "category": "trail",
+        "trailName": "Striped Peak Trail",
+        "systemName": "Salt Creek Recreation Area",
+        "imageUrl": "https://jspnw35.github.io/Trail-Finder-App-Data/striped-peak.jpg",
+        "distance": 5.0,
+        "elevationGain": 1489,
+        "trailType": "Out & Back",
+        "trailheadCoordinates": {
+            "latitude": 48.16518,
+            "longitude": 123.69986
+        },
+        "source": "http://www.clallam.net/parks/saltcreek.html",
+        "description": "Striped Peak trail is a 5.0 mile trail near Port Angeles, WA. It is considered to be moderately difficult and takes about 3 hours to complete. There are great views of the Straight of Juan De Fuca. Dogs are welcome but must be on a leash."
+    },
+    {
+        "id": 5,
+        "category":"trail",
+        "trailName": "5 Mile Island via Hoh River Trail",
+        "systemName": "Olympic National Park",
+        "imageUrl": "https://jspnw35.github.io/Trail-Finder-App-Data/hoh-river.jpg",
+        "distance": 10.0,
+        "elevationGain": 387,
+        "trailType": "Out & Back",
+        "trailheadCoordinates": {
+            "latitude": 47.86051,
+            "longitude": 123.93478
+        },
+        "source":"https://www.nps.gov/olym/planyourvisit/hoh-river-trail.htm",
+        "description": "Hoh River trail to 5 Mile Island is a 10.0 mile trail near Forks, WA. It is considered to be an easy route that takes about 4 hours to complete. There are great views of the rainforest and the Hoh river. Dogs are not permitted in national parks."
+    },
+    {
+        "id": 6,
+        "category": "trail",
+        "trailName": "Mount Storm King",
+        "systemName": "Olympic National Park",
+        "imageUrl": "https://jspnw35.github.io/Trail-Finder-App-Data/mount-storm-king.jpg",
+        "distance": 4.1,
+        "elevationGain": 2106,
+        "trailType":"Out & Back",
+        "trailheadCoordinates": {
+            "latitude": 48.05799,
+            "longitude": 123.78919
+        },
+        "source":"https://www.nps.gov/olym/planyourvisit/mount-storm-king-trail.htm",
+        "description": "Mount Storm King is a 4.1 mile trail near Port Angeles, Wa. It is considered to be a hard route that takes about 3.5 hours to complete. There are great views of lake crescent from the summit of the trail. There is a rope section to reach the summit. Dogs are not permitted in national parks."
+    },
+    {
+        "id": 7,
+        "category":"trail",
+        "trailName": "Devil's Punchbowl via Spruce Railroad Trail.",
+        "systemName": "Olympic National Park",
+        "imageUrl": "https://jspnw35.github.io/Trail-Finder-App-Data/devils-punchbowl.jpg",
+        "distance": 2.4,
+        "elevationGain": 144,
+        "trailType":"Out & Back",
+        "trailheadCoordinates": {
+            "latitude": 48.09145,
+            "longitude": 123.80037
+        },
+        "source":"https://www.nps.gov/olym/learn/news/spruce-railroad-trail-project-at-lake-crescent-complete.htm",
+        "description": "Devil's Punchbowl via Spruce Railroad is a 2.4 mile trail near Port Angeles, WA, it is considered to be an easy route that takes about 1.5 hours to complete.There are views of Lake Crescent from the trail. Dogs are welcome but must be on a leash."
+    },
+    {
+        "id": 8,
+        "category":"trail",
+        "trailName": "South Beach Trail",
+        "systemName": "American Camp",
+        "imageUrl": "https://jspnw35.github.io/Trail-Finder-App-Data/south-beach.jpg",
+        "distance": 2.0,
+        "elevationGain": 196,
+        "trailType": "Out & Back",
+        "trailheadCoordinates": {
+            "latitude": 48.46444,
+            "longitude": 123.02476
+        },
+        "source": "https://www.nps.gov/sajh/learn/historyculture/american-camp.htm",
+        "description": "South Beach Trail is a 2 mile trail near Friday Harbor, WA. It is generally considered to be an easy route that takes about 1.5 hours to complete. Thre are great views of the Strait of Juan de Fuca. Dogs are not permitted on this trail."
+    },
+    {
+        "id": 9,
+        "category": "trail",
+        "trailName": "Lighthouse Point via Bowman Bay",
+        "systemName": "Deception Pass State Park",
+        "imageUrl":"https://jspnw35.github.io/Trail-Finder-App-Data/bowman-bay.jpg",
+        "distance": 2.4,
+        "elevationGain": 321,
+        "trailType": "Loop",
+        "trailheadCoordinates": {
+            "latitude": 48.41869,
+            "longitude": 122.65183
+        },
+        "source": "https://www.parks.wa.gov/497/Deception-Pass",
+        "description": "Lighthouse point via Bowman Bay is a 2.4 mile trail near Oak Harbor, WA. it is generally considered to be an easy route and takes about an hour and a half to complete. Dogs are welcome but must be kept on a leash."
+    }
+
+]
